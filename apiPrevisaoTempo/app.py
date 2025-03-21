@@ -3,7 +3,7 @@ import requests
 
 app = Flask(__name__)
 
-API_KEY = 'fe271b6a4f2f6354ae9641a4da169c1c'
+API_KEY = 'COLOCAR_KEY'
 
 @app.route("/")
 def home():
